@@ -1,9 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
+<<<<<<< HEAD
 <widget id="com.zaotuixiu.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>ÔçÍËĞİ</name>
     <description>Ö¸Â¹ÎªÑòºÍÀÏçÛµÄ»Ø¹ø½­ºş</description>
     <author email="admin@zaotuixiu.com" href="http://www.zaotuixiu.com">AGOTH Webmaster</author>
+=======
+<widget id="zaotuixiu.com.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    
+    <name>æ—©é€€ä¼‘</name>
+    <description>æŒ‡é¹¿ä¸ºç¾Šå’Œè€ä¹ˆæ—©é€€ä¼‘åçš„å›é”…æ±Ÿæ¹–</description>
+    <author email="zaotuixiu@outlook.com" href="http://www.zaotuixiu.com">AGOTH Webmaster</author>
+>>>>>>> origin/master
 
     <preference name="phonegap-version" value="1.0.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
